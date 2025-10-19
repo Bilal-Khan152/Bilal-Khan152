@@ -1,16 +1,27 @@
-## Hi there 👋
+ ### Hi there, I'm **Bilal Khan** 👋
 
-<!--
-**Bilal-Khan152/Bilal-Khan152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Engineer | React.js Developer**
 
-Here are some ideas to get you started:
+🚀 Passionate about building modern, responsive, and scalable web applications.
+💻 Skilled in **React.js**, **Redux**, **Tailwind CSS**, **React Bootstrap**, **Firebase**, and **Jest**.
+⚙️ Experienced in creating pixel-perfect, performant UIs with clean, maintainable code.
+🌱 Continuously exploring new libraries, frameworks, and tools to stay ahead in the fast-evolving world of software development.
+🤝 Open to contributing to **open-source projects** and collaborating on innovative ideas.
+💬 Excited to grow as a developer and explore the world of software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 **Tech Stack**
+
+React.js • Redux • JavaScript (ES6+) • Tailwind CSS • React Bootstrap • Firebase • Jest • Git • HTML • CSS
+
+---
+
+### 📫 **Contact Me**
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/bilal-khan2/)
+* 📧 **Email:** [bilalkhandev66@gmail.com](mailto:bilalkhandev66@gmail.com)
+* 📱 **Phone:** +92 313 9594577
+ 
+
+⭐ **“Code. Learn. Improve. Repeat.”**
