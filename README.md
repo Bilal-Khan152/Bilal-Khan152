@@ -1,4 +1,4 @@
- ### Hi there, I'm **Bilal Khan** 👋
+ ### Hi there, I'm **Muhammad Bilal** 👋
 
 **Frontend Engineer | React.js Developer**
 
