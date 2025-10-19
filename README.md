@@ -1,6 +1,6 @@
  ### Hi there, I'm **Muhammad Bilal** 👋
 
-**Frontend Engineer | React.js Developer**
+**Frontend Engineer**
 
 🚀 Passionate about building modern, responsive, and scalable web applications.
 💻 Skilled in **React.js**, **Redux**, **Tailwind CSS**, **React Bootstrap**, **Firebase**, and **Jest**.
