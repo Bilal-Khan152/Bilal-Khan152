@@ -13,7 +13,7 @@
 
 ### 🧠 **Tech Stack**
 
-React.js • Redux • JavaScript (ES6+) • Tailwind CSS • React Bootstrap • Firebase • Jest • Git • HTML • CSS
+React.js • Redux Toolkit • JavaScript (ES6+) • Tailwind CSS • React Bootstrap • Firebase • Jest • Git • HTML • CSS
 
 ---
 
