@@ -1,13 +1,9 @@
- ### Hi there, I'm **Muhammad Bilal** 👋
+Hi, I’m Bilal a Frontend Engineer focused on building scalable, user-centric, and maintainable web applications.
+Beyond writing UI components, I enjoy understanding how systems work end-to-end —from product requirements and user experience to frontend architecture, API integration, state management, and performance optimization.
 
-**Frontend Engineer**
+I work primarily with React.js, Next.js, Redux Toolkit, RTK Query, Tailwind CSS, and modern frontend ecosystems to build responsive and reliable applications that solve real business problems.
 
-🚀 Passionate about building modern, responsive, and scalable web applications.
-💻 Skilled in **React.js**, **Redux**, **Tailwind CSS**, **React Bootstrap**, **Firebase**, and **Jest**.
-⚙️ Experienced in creating pixel-perfect, performant UIs with clean, maintainable code.
-🌱 Continuously exploring new libraries, frameworks, and tools to stay ahead in the fast-evolving world of software development.
-🤝 Open to contributing to **open-source projects** and collaborating on innovative ideas.
-💬 Excited to grow as a developer and explore the world of software engineering.
+If you have an idea, opportunity, or meaningful product to build, let’s connect and create something impactful together.
 
 ---
 
