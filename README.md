@@ -17,7 +17,6 @@ React.js • Next.js • Redux Toolkit • RTK Query • JavaScript (ES6+) • T
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/bilal-khan2/)
 * 📧 **Email:** [bilalkhandev66@gmail.com](mailto:bilalkhandev66@gmail.com)
-* 📱 **Phone:** +92 313 9594577
+* 📱 **Whatsapp:** +92 313 9594577
  
 
-⭐ **“Code. Learn. Improve. Repeat.”**
