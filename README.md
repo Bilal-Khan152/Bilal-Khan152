@@ -9,7 +9,7 @@ If you have an idea, opportunity, or meaningful product to build, let’s connec
 
 ### 🧠 **Tech Stack**
 
-React.js • Next.js • Redux Toolkit • JavaScript (ES6+) • Tailwind CSS • React Bootstrap • Git • HTML • CSS
+React.js • Next.js • Redux Toolkit • RTK Query • JavaScript (ES6+) • Tailwind CSS • React Bootstrap • Git • HTML • CSS
 
 ---
 
